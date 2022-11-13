@@ -10,7 +10,7 @@ http://www.deathball.net/notpron/love/popular.htm
 - ??? => marge
 
 ## lvl 65
-http://www.deathball.net/notpron/love/marge.htm
+http://www.deathball.net/notpron/love/marge.htm\
 Unauthorized page on login fail is fake, see source code.
 
 => user: fake, pw: page
