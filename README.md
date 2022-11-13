@@ -11,4 +11,9 @@ http://www.deathball.net/notpron/love/popular.htm
 
 ## lvl 65
 http://www.deathball.net/notpron/love/marge.htm
+Unauthorized page on login fail is fake, see source code.
+
+=> user: fake, pw: page
+
+## lvl 66
 **WE ARE HERE**
